@@ -1,0 +1,24 @@
+{
+    "hdi_db": {
+      "object_owner": {
+        "schema_roles": [
+          {
+            
+            "roles": [
+              "MP3_ROLE"
+            ]
+          }
+        ]
+      },
+      "application_user": {
+        "schema_roles": [
+          {
+            
+            "roles": [
+              "MP3_ROLE_GRNT#"
+            ]
+          }
+        ]
+      }
+    }
+  }

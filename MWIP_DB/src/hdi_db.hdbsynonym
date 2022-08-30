@@ -1,0 +1,8 @@
+{
+  "com.sap::MINCOME": {
+    "target": {
+      "object": "MINCOME",
+      "schema": "MP3_DB_SCH"
+    }
+  }
+}

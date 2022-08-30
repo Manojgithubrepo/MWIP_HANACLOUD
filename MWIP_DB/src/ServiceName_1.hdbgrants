@@ -1,0 +1,22 @@
+{
+  "ServiceName_1": {
+    "object_owner": {
+      "global_roles": [
+        {
+          "roles": [
+            "genericRoleForMMMOO"
+          ]
+        }
+      ]
+    },
+    "application_user": {
+      "global_roles": [
+        {
+          "roles": [
+            "genericRoleForMMMAP"
+          ]
+        }
+      ]
+    }
+  }
+}

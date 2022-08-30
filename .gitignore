@@ -1,0 +1,6 @@
+mta_archives/
+
+# auto generated wildcard
+MANOJ_DB/MANOJ_DB/.env
+# auto generated wildcard
+MWIP_HANACLOUD/MWIP_DB/.env

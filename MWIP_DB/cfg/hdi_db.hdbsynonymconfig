@@ -1,0 +1,14 @@
+{
+  "com.sap::MINCOME": {
+    "target": {
+      "object": "MINCOME",
+      "schema": "MP3_DB_SCH"
+    }
+  },
+  "com.sap::CV_SALES": {
+    "target": {
+      "object": "CV_SALES",
+      "schema": "MP3_DB_SCH"
+    }
+  }
+}
